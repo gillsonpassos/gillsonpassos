@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **My develop carrer**
-- ⚙️ I use daily: `.js`, `.html`, `.css`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.ract`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about **Javascript**
 - 💬 Ping me about **development**, **electrician things**
