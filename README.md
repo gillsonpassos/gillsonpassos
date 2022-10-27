@@ -22,5 +22,12 @@
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-                                                      
+ </div>
+ 
+ ###
+ 
+<div>
+  <a href="https://github.com/gillsonpassos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gillsonpassos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillsonpassos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
