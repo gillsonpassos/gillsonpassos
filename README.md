@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **My develop carrer**
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.ract`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.ts`, `.ract`, `python`
 - 🌍 I'm mostly active within the **LinkedIn**
 - 🌱 Learning all about **Javascript**
 - 💬 Ping me about **development**, **electrician things**
@@ -21,7 +21,7 @@
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
- <img width="50px" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
  </div>
  
